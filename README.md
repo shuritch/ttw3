@@ -1,8 +1,8 @@
 # TTW3 Cream Modification 
 
-- `13.04.23` Dwarfs
-- `14.08.23` Shadows
-- `10.08.24` Trones
+- `13.04.23` Forge of the Chaos Dwarfs
+- `14.08.23` Shadows of Change
+- `10.08.24` Thrones of Decay
 
 ## Installation
 

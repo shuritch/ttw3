@@ -6,8 +6,9 @@
 
 ## Installation
 
-Move everything from `data` folder to path/to/game/`data`.
-Move `cream_api.ini`, `steam_api64.dll`, `steam_api64_o.dll` to game folder.
+1. Download repository (here)[https://github.com/sashapop10/ttw3/archive/refs/heads/main.zip]
+3. Move everything from `data` folder to similar at path/to/game/`data`.
+2. Move `cream_api.ini`, `steam_api64.dll`, `steam_api64_o.dll` to game folder.
 
 
 ## Updates

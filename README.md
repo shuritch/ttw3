@@ -4,6 +4,12 @@
 - `14.08.23` Shadows
 - `10.08.24` Trones
 
+## Installation
+
+Move everything from `data` folder to path/to/game/`data`.
+Move `cream_api.ini`, `steam_api64.dll`, `steam_api64_o.dll` to game folder.
+
+
 ## Updates
 
 If you see that DLC isn't accessible. Than you should update this by yourself.

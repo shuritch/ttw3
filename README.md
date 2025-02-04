@@ -1,6 +1,6 @@
 <h1 align="center">TTW3 Toolkit</h1>
 
-<img align="left" width="285" src="./assets/main.png">
+<img align="left" width="345" src="./assets/main.png">
 
 **Навигация**
 
